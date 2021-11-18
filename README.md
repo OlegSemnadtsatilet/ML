@@ -2,6 +2,8 @@
 
 In Corsera project about prediction of vinner team by logs of 17k+ games from Dota2\n
 
-In kaggle solutions from competitions:\n
-"Titanic: Machine Learning from disaster": predictions of survival probability by dataset of logs survivors and dead passengers\n
-"Houses prices": predictions of houses prices by logs of saled houses with parameters\n
+In kaggle solutions from competitions:
+
+"Titanic: Machine Learning from disaster": predictions of survival probability by dataset of logs survivors and dead passengers
+
+"Houses prices": predictions of houses prices by logs of saled houses with parameters
